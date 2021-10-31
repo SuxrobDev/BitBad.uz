@@ -1,0 +1,1 @@
+const [menu] = useState({[id:1,name:"Asosiy",icon:BiHome],[id:2,name:"Mahsulotlar",icon:BiHome],[id:3,name:"Oqimlar",icon:CgArrowRightR],[id:4,name:"Statistika",icon:BiHome],[id:5,name:"To’lov",icon:CgCreditCard],[id:6,name:"FAQ",icon:BsQuestionCircle]});
